@@ -1,0 +1,1912 @@
+{
+  "categories": [
+    {
+      "id": "everyday_objects",
+      "name": "Everyday Objects",
+      "pairs": [
+        {
+          "wordA": "Chair",
+          "wordB": "Stool",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Sofa",
+          "wordB": "Couch",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Pillow",
+          "wordB": "Cushion",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Blanket",
+          "wordB": "Quilt",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Mug",
+          "wordB": "Cup",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Bowl",
+          "wordB": "Plate",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Bottle",
+          "wordB": "Flask",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Wallet",
+          "wordB": "Purse",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Umbrella",
+          "wordB": "Parasol",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Clock",
+          "wordB": "Watch",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Mirror",
+          "wordB": "Window",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Door",
+          "wordB": "Gate",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Key",
+          "wordB": "Lock",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Backpack",
+          "wordB": "Suitcase",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Bed",
+          "wordB": "Mattress",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Lamp",
+          "wordB": "Lantern",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Shelf",
+          "wordB": "Cabinet",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Curtain",
+          "wordB": "Blind",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Drawer",
+          "wordB": "Cupboard",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Rug",
+          "wordB": "Carpet",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "foods_drinks",
+      "name": "Foods & Drinks",
+      "pairs": [
+        {
+          "wordA": "Pizza",
+          "wordB": "Burger",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Tea",
+          "wordB": "Coffee",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Pasta",
+          "wordB": "Noodles",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Taco",
+          "wordB": "Burrito",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Pancake",
+          "wordB": "Waffle",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Donut",
+          "wordB": "Bagel",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Ice Cream",
+          "wordB": "Gelato",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Chocolate",
+          "wordB": "Candy",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Soup",
+          "wordB": "Stew",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Fries",
+          "wordB": "Chips",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Cupcake",
+          "wordB": "Muffin",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Cookie",
+          "wordB": "Biscuit",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Ramen",
+          "wordB": "Pho",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Croissant",
+          "wordB": "Brioche",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Smoothie",
+          "wordB": "Milkshake",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Lemonade",
+          "wordB": "Limeade",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Espresso",
+          "wordB": "Americano",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Curry",
+          "wordB": "Gravy",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Yogurt",
+          "wordB": "Kefir",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Dumpling",
+          "wordB": "Wonton",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "pairs": [
+        {
+          "wordA": "Lion",
+          "wordB": "Tiger",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Cat",
+          "wordB": "Dog",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Crocodile",
+          "wordB": "Alligator",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Frog",
+          "wordB": "Toad",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Horse",
+          "wordB": "Donkey",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Eagle",
+          "wordB": "Hawk",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Rabbit",
+          "wordB": "Hare",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Bee",
+          "wordB": "Wasp",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Penguin",
+          "wordB": "Puffin",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Butterfly",
+          "wordB": "Moth",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Turtle",
+          "wordB": "Tortoise",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Mouse",
+          "wordB": "Rat",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Squirrel",
+          "wordB": "Chipmunk",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Octopus",
+          "wordB": "Squid",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Crab",
+          "wordB": "Lobster",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Goat",
+          "wordB": "Sheep",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Llama",
+          "wordB": "Alpaca",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Leopard",
+          "wordB": "Jaguar",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Seal",
+          "wordB": "Sea Lion",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Alligator",
+          "wordB": "Caiman",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "buildings_places",
+      "name": "Buildings & Places",
+      "pairs": [
+        {
+          "wordA": "House",
+          "wordB": "Apartment",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "School",
+          "wordB": "College",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Library",
+          "wordB": "Bookstore",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Hospital",
+          "wordB": "Clinic",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Cinema",
+          "wordB": "Theatre",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Hotel",
+          "wordB": "Motel",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Park",
+          "wordB": "Garden",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Castle",
+          "wordB": "Palace",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Restaurant",
+          "wordB": "Bistro",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Museum",
+          "wordB": "Gallery",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Stadium",
+          "wordB": "Arena",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Harbor",
+          "wordB": "Marina",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Cabin",
+          "wordB": "Chalet",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Farm",
+          "wordB": "Ranch",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Church",
+          "wordB": "Cathedral",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Bakery",
+          "wordB": "Cafe",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Monastery",
+          "wordB": "Convent",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Fort",
+          "wordB": "Citadel",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Embassy",
+          "wordB": "Consulate",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Warehouse",
+          "wordB": "Depot",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "transportation_vehicles",
+      "name": "Transportation & Vehicles",
+      "pairs": [
+        {
+          "wordA": "Car",
+          "wordB": "Bus",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Bicycle",
+          "wordB": "Motorbike",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Taxi",
+          "wordB": "Cab",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Train",
+          "wordB": "Tram",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Subway",
+          "wordB": "Metro",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Scooter",
+          "wordB": "Moped",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Truck",
+          "wordB": "Van",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Ferry",
+          "wordB": "Cruise Ship",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Airplane",
+          "wordB": "Helicopter",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Ambulance",
+          "wordB": "Fire Engine",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Sailboat",
+          "wordB": "Yacht",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Jeep",
+          "wordB": "SUV",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Skateboard",
+          "wordB": "Rollerblades",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Rickshaw",
+          "wordB": "Tuk-tuk",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Glider",
+          "wordB": "Hang Glider",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Pickup Truck",
+          "wordB": "Utility Van",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Monorail",
+          "wordB": "Maglev",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Catamaran",
+          "wordB": "Trimaran",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Barge",
+          "wordB": "Tugboat",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Roadster",
+          "wordB": "Coupe",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "occupations_professions",
+      "name": "Occupations & Professions",
+      "pairs": [
+        {
+          "wordA": "Teacher",
+          "wordB": "Professor",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Chef",
+          "wordB": "Baker",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Doctor",
+          "wordB": "Nurse",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Dentist",
+          "wordB": "Orthodontist",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Surgeon",
+          "wordB": "Anesthesiologist",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Carpenter",
+          "wordB": "Mason",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Mechanic",
+          "wordB": "Technician",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Barber",
+          "wordB": "Hairdresser",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Florist",
+          "wordB": "Gardener",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Photographer",
+          "wordB": "Videographer",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Painter",
+          "wordB": "Illustrator",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Sculptor",
+          "wordB": "Potter",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Referee",
+          "wordB": "Umpire",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Pilot",
+          "wordB": "Flight Attendant",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Lawyer",
+          "wordB": "Judge",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Singer",
+          "wordB": "Rapper",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Actuary",
+          "wordB": "Statistician",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Archivist",
+          "wordB": "Curator",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Cartographer",
+          "wordB": "Surveyor",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Sommelier",
+          "wordB": "Bartender",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "entertainment_media",
+      "name": "Entertainment & Media",
+      "pairs": [
+        {
+          "wordA": "Movie",
+          "wordB": "TV Show",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Singer",
+          "wordB": "Actor",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Star Wars",
+          "wordB": "Star Trek",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Avengers",
+          "wordB": "Justice League",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Spider-Man",
+          "wordB": "Daredevil",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Frozen",
+          "wordB": "Tangled",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Pokémon",
+          "wordB": "Digimon",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Superman",
+          "wordB": "Captain America",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Inception",
+          "wordB": "Interstellar",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Shrek",
+          "wordB": "Monsters Inc.",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Toy Story",
+          "wordB": "Cars",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Breaking Bad",
+          "wordB": "Better Call Saul",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Friends",
+          "wordB": "How I Met Your Mother",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "The Office",
+          "wordB": "Parks and Recreation",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Game of Thrones",
+          "wordB": "The Witcher",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "The Simpsons",
+          "wordB": "Family Guy",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Seinfeld",
+          "wordB": "Curb Your Enthusiasm",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "The Matrix",
+          "wordB": "Equilibrium",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Stranger Things",
+          "wordB": "Dark",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Beyoncé",
+          "wordB": "Rihanna",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "nature_plants",
+      "name": "Nature & Plants",
+      "pairs": [
+        {
+          "wordA": "Rose",
+          "wordB": "Tulip",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "River",
+          "wordB": "Stream",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Ocean",
+          "wordB": "Sea",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Tornado",
+          "wordB": "Hurricane",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Oak",
+          "wordB": "Maple",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Pine",
+          "wordB": "Fir",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Sunflower",
+          "wordB": "Daisy",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Lily",
+          "wordB": "Orchid",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Mushroom",
+          "wordB": "Truffle",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Fog",
+          "wordB": "Mist",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Hail",
+          "wordB": "Sleet",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Cliff",
+          "wordB": "Bluff",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Canyon",
+          "wordB": "Valley",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Glacier",
+          "wordB": "Iceberg",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Cactus",
+          "wordB": "Succulent",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Coral",
+          "wordB": "Sponge",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Estuary",
+          "wordB": "Delta",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Moss",
+          "wordB": "Lichen",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Stalactite",
+          "wordB": "Stalagmite",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Comet",
+          "wordB": "Asteroid",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "sports_activities",
+      "name": "Sports & Activities",
+      "pairs": [
+        {
+          "wordA": "Football",
+          "wordB": "Rugby",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Tennis",
+          "wordB": "Badminton",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Boxing",
+          "wordB": "MMA",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Swimming",
+          "wordB": "Diving",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Skiing",
+          "wordB": "Snowboarding",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Golf",
+          "wordB": "Mini Golf",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Hockey",
+          "wordB": "Lacrosse",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Soccer",
+          "wordB": "Futsal",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Cycling",
+          "wordB": "BMX",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Surfing",
+          "wordB": "Bodyboarding",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Fencing",
+          "wordB": "Kendo",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Wrestling",
+          "wordB": "Judo",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Karate",
+          "wordB": "Taekwondo",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Yoga",
+          "wordB": "Pilates",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Billiards",
+          "wordB": "Snooker",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Rowing",
+          "wordB": "Canoeing",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Biathlon",
+          "wordB": "Triathlon",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Curling",
+          "wordB": "Bocce",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Parkour",
+          "wordB": "Freerunning",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Decathlon",
+          "wordB": "Heptathlon",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "technology_electronics",
+      "name": "Technology & Electronics",
+      "pairs": [
+        {
+          "wordA": "Phone",
+          "wordB": "Tablet",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Laptop",
+          "wordB": "Desktop",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Google",
+          "wordB": "Bing",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Netflix",
+          "wordB": "Disney+",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Instagram",
+          "wordB": "Snapchat",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "WhatsApp",
+          "wordB": "Telegram",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "PlayStation",
+          "wordB": "Xbox",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "MacBook",
+          "wordB": "Surface",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Chrome",
+          "wordB": "Firefox",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Spotify",
+          "wordB": "Apple Music",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Zoom",
+          "wordB": "Teams",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Uber",
+          "wordB": "Lyft",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Airbnb",
+          "wordB": "Vrbo",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Router",
+          "wordB": "Modem",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Headphones",
+          "wordB": "Earbuds",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Monitor",
+          "wordB": "Television",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "RAM",
+          "wordB": "ROM",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "OLED",
+          "wordB": "QLED",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "VPN",
+          "wordB": "Proxy",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Compiler",
+          "wordB": "Interpreter",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "tools_kitchen_items",
+      "name": "Tools & Kitchen Items",
+      "pairs": [
+        {
+          "wordA": "Spoon",
+          "wordB": "Fork",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Knife",
+          "wordB": "Scissors",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Hammer",
+          "wordB": "Mallet",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Spatula",
+          "wordB": "Turner",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Whisk",
+          "wordB": "Beater",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Pot",
+          "wordB": "Pan",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Kettle",
+          "wordB": "Teapot",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Grater",
+          "wordB": "Peeler",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Ladle",
+          "wordB": "Serving Spoon",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Rolling Pin",
+          "wordB": "Meat Tenderizer",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Colander",
+          "wordB": "Strainer",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Tongs",
+          "wordB": "Tweezers",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Wrench",
+          "wordB": "Spanner",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Screwdriver",
+          "wordB": "Drill",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Pliers",
+          "wordB": "Clamps",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Measuring Cup",
+          "wordB": "Measuring Jug",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Mortar",
+          "wordB": "Pestle",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Cleaver",
+          "wordB": "Santoku",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Zester",
+          "wordB": "Channel Knife",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Sieve",
+          "wordB": "Chinois",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "clothing_accessories",
+      "name": "Clothing & Accessories",
+      "pairs": [
+        {
+          "wordA": "Shirt",
+          "wordB": "T-shirt",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Shoes",
+          "wordB": "Sandals",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Jeans",
+          "wordB": "Trousers",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Jacket",
+          "wordB": "Coat",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Sweater",
+          "wordB": "Cardigan",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Hoodie",
+          "wordB": "Sweatshirt",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Shorts",
+          "wordB": "Skirt",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Socks",
+          "wordB": "Stockings",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Cap",
+          "wordB": "Hat",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Scarf",
+          "wordB": "Shawl",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Gloves",
+          "wordB": "Mittens",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Belt",
+          "wordB": "Suspenders",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Tie",
+          "wordB": "Bow Tie",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Sneakers",
+          "wordB": "Loafers",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Backpack",
+          "wordB": "Handbag",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Watch",
+          "wordB": "Bracelet",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Blazer",
+          "wordB": "Sport Coat",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Trench Coat",
+          "wordB": "Macintosh",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Dungarees",
+          "wordB": "Overalls",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Brooch",
+          "wordB": "Lapels Pin",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "weather_natural_events",
+      "name": "Weather & Natural Events",
+      "pairs": [
+        {
+          "wordA": "Rain",
+          "wordB": "Snow",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Thunder",
+          "wordB": "Lightning",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Fog",
+          "wordB": "Mist",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Hail",
+          "wordB": "Sleet",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Tornado",
+          "wordB": "Hurricane",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Drought",
+          "wordB": "Heatwave",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Drizzle",
+          "wordB": "Shower",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Breeze",
+          "wordB": "Gust",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Blizzard",
+          "wordB": "Snowstorm",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Flood",
+          "wordB": "Flash Flood",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Monsoon",
+          "wordB": "Typhoon",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Cyclone",
+          "wordB": "Hurricane",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Frost",
+          "wordB": "Freeze",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Cloudburst",
+          "wordB": "Downpour",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Earthquake",
+          "wordB": "Aftershock",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Landslide",
+          "wordB": "Mudslide",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Waterspout",
+          "wordB": "Tornado",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Derecho",
+          "wordB": "Squall",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Sirocco",
+          "wordB": "Mistral",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "La Niña",
+          "wordB": "El Niño",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "writing_art_supplies",
+      "name": "Writing & Art Supplies",
+      "pairs": [
+        {
+          "wordA": "Pen",
+          "wordB": "Pencil",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Paintbrush",
+          "wordB": "Marker",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Crayon",
+          "wordB": "Colored Pencil",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Notebook",
+          "wordB": "Journal",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Eraser",
+          "wordB": "Correction Tape",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Ruler",
+          "wordB": "Set Square",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Chalk",
+          "wordB": "Pastel",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Canvas",
+          "wordB": "Sketchbook",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Watercolor",
+          "wordB": "Gouache",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Acrylic Paint",
+          "wordB": "Oil Paint",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Glue",
+          "wordB": "Adhesive Tape",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Scissors",
+          "wordB": "Craft Knife",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Charcoal",
+          "wordB": "Graphite",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Palette",
+          "wordB": "Mixing Tray",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Calligraphy Pen",
+          "wordB": "Fountain Pen",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Stencil",
+          "wordB": "Template",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Lithography Stone",
+          "wordB": "Etching Plate",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Sanguine",
+          "wordB": "Conté Crayon",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Linocut Tool",
+          "wordB": "Graver",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Gesso",
+          "wordB": "Primer",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "health_body",
+      "name": "Health & Body",
+      "pairs": [
+        {
+          "wordA": "Heart",
+          "wordB": "Lungs",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Arm",
+          "wordB": "Leg",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Knee",
+          "wordB": "Elbow",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Wrist",
+          "wordB": "Ankle",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Shoulder",
+          "wordB": "Hip",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Vein",
+          "wordB": "Artery",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Muscle",
+          "wordB": "Tendon",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Bone",
+          "wordB": "Cartilage",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Skin",
+          "wordB": "Hair",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Tooth",
+          "wordB": "Molar",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Stomach",
+          "wordB": "Intestine",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Brain",
+          "wordB": "Spinal Cord",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Pulse",
+          "wordB": "Blood Pressure",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Vaccine",
+          "wordB": "Medicine",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Bandage",
+          "wordB": "Dressing",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Cramp",
+          "wordB": "Spasm",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Ligament",
+          "wordB": "Tendon",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Retina",
+          "wordB": "Cornea",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Trachea",
+          "wordB": "Esophagus",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Pancreas",
+          "wordB": "Spleen",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "holidays_celebrations",
+      "name": "Holidays & Celebrations",
+      "pairs": [
+        {
+          "wordA": "Birthday",
+          "wordB": "Anniversary",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Wedding",
+          "wordB": "Engagement",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Christmas",
+          "wordB": "Easter",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Diwali",
+          "wordB": "Holi",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Halloween",
+          "wordB": "Carnival",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "New Year",
+          "wordB": "Christmas Eve",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Valentine's Day",
+          "wordB": "Friendship Day",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Thanksgiving",
+          "wordB": "Harvest Festival",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Baby Shower",
+          "wordB": "Bridal Shower",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Graduation",
+          "wordB": "Farewell",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Parade",
+          "wordB": "Procession",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Festival",
+          "wordB": "Fair",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Fireworks",
+          "wordB": "Sparklers",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Cake",
+          "wordB": "Cupcakes",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Invitation",
+          "wordB": "Greeting Card",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Costume Party",
+          "wordB": "Masquerade",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Oktoberfest",
+          "wordB": "Carnival of Venice",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Lunar New Year",
+          "wordB": "Mid-Autumn Festival",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Passover",
+          "wordB": "Hanukkah",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Onam",
+          "wordB": "Pongal",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "emotions_actions",
+      "name": "Emotions & Actions",
+      "pairs": [
+        {
+          "wordA": "Happy",
+          "wordB": "Sad",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Laugh",
+          "wordB": "Cry",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Angry",
+          "wordB": "Annoyed",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Afraid",
+          "wordB": "Nervous",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Excited",
+          "wordB": "Thrilled",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Proud",
+          "wordB": "Confident",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Bored",
+          "wordB": "Tired",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Surprised",
+          "wordB": "Shocked",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Jealous",
+          "wordB": "Envious",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Calm",
+          "wordB": "Relaxed",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Whisper",
+          "wordB": "Murmur",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Shout",
+          "wordB": "Yell",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Stare",
+          "wordB": "Glance",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Jog",
+          "wordB": "Sprint",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Crawl",
+          "wordB": "Climb",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Wave",
+          "wordB": "Gesture",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Nostalgic",
+          "wordB": "Melancholic",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Apprehensive",
+          "wordB": "Reluctant",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Astonished",
+          "wordB": "Dumbfounded",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Contemplate",
+          "wordB": "Meditate",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": "musical_instruments",
+      "name": "Musical Instruments",
+      "pairs": [
+        {
+          "wordA": "Guitar",
+          "wordB": "Ukulele",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Piano",
+          "wordB": "Keyboard",
+          "difficulty": "easy"
+        },
+        {
+          "wordA": "Violin",
+          "wordB": "Cello",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Flute",
+          "wordB": "Clarinet",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Drums",
+          "wordB": "Bongos",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Trumpet",
+          "wordB": "Trombone",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Saxophone",
+          "wordB": "Oboe",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Harp",
+          "wordB": "Lyre",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Accordion",
+          "wordB": "Harmonica",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Banjo",
+          "wordB": "Mandolin",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Bass Guitar",
+          "wordB": "Electric Guitar",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Xylophone",
+          "wordB": "Marimba",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Cymbal",
+          "wordB": "Gong",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Recorder",
+          "wordB": "Piccolo",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Sitar",
+          "wordB": "Veena",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Tabla",
+          "wordB": "Dholak",
+          "difficulty": "medium"
+        },
+        {
+          "wordA": "Didgeridoo",
+          "wordB": "Bagpipes",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Bassoon",
+          "wordB": "Bass Clarinet",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Cor anglais",
+          "wordB": "Oboe",
+          "difficulty": "hard"
+        },
+        {
+          "wordA": "Celesta",
+          "wordB": "Glockenspiel",
+          "difficulty": "hard"
+        }
+      ]
+    }
+  ]
+}
